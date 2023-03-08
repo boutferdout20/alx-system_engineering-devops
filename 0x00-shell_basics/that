@@ -1,0 +1,21 @@
+Script started on 2023-03-08 03:43:58-08:00 [TERM="xterm" TTY="/dev/pts/41" COLUMNS="83" LINES="46"]
+# 
+# e 0x00-shell_basics
+sh: 2: 0x00-shell_basics: not found
+# ^C
+# alx-system_engineering-devops
+sh: 3: alx-system_engineering-devops: not found
+# ^C
+# alx-system_engineering-devops^C
+# ls  :wq
+sh: 4: :wq: not found
+# 
+# 
+# 
+#  cat 3-listfiles
+#!/bin/bash
+ls -l
+# ^C
+# exit
+
+Script done on 2023-03-08 04:08:08-08:00 [COMMAND_EXIT_CODE="130"]
